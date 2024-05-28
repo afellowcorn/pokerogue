@@ -82,7 +82,7 @@ export const move: MoveTranslationEntries = {
     effect: "Długie ciało lub macki są użytę by związać i ścisnąć cel przez cztery do pięciu tur."
   },
   "slam": {
-    name: "Klaps",
+    name: "Trzask",
     effect: "Cel jest uderzony długim ogonem, pnączem lub podobnym."
   },
   "vineWhip": {
@@ -146,68 +146,68 @@ export const move: MoveTranslationEntries = {
     effect: "Ryzykancka szarża, gdzie użytkownik uderza w cel całym swoim ciałem. Także sprawia trochę krzywdy użytkownikowi."
   },
   "thrash": {
-    name: "Thrash",
-    effect: "The user rampages and attacks for two to three turns. The user then becomes confused."
+    name: "Łomot",
+    effect: "Użytkownik wpada w szał i atakuje przez dwie do trzech tur. Potem staje się zdezorientowany."
   },
   "doubleEdge": {
-    name: "Double-Edge",
-    effect: "A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot."
+    name: "Podwójny Kant",
+    effect: "Ryzykancki atak, w którym użytkownik rzuca się w cel. Także sprawia dość dużo krzywdy użytkownikowi."
   },
   "tailWhip": {
-    name: "Tail Whip",
-    effect: "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats."
+    name: "Atak Ogonem",
+    effect: "Użytkownik słodko merda ogonem, obniżając Obronę przeciwnych Pokémonów."
   },
   "poisonSting": {
-    name: "Poison Sting",
-    effect: "The user stabs the target with a poisonous stinger. This may also poison the target."
+    name: "Trujące Żądło",
+    effect: "Użytkownik dźga cel trującym żądłem. Może także zatruć cel."
   },
   "twineedle": {
-    name: "Twineedle",
-    effect: "The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target."
+    name: "Podwójna Igła",
+    effect: "Cel jest dźgnięty dwa razy pod rząd dwoma kolcami. Może także zatruć cel."
   },
   "pinMissile": {
-    name: "Pin Missile",
-    effect: "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+    name: "Szpilopocisk",
+    effect: "Ostre kolce są wystrzeliwane w cel w szybkim tępie. Uderzają od dwóch do pięciu razy pod rząd."
   },
   "leer": {
-    name: "Leer",
-    effect: "The user gives opposing Pokémon an intimidating leer that lowers the Defense stat."
+    name: "Spojrzenie",
+    effect: "Użytkownik daje przeciwnym Pokémonom onieśmielające spojrzenie, które obniża ich Obronę."
   },
   "bite": {
-    name: "Bite",
-    effect: "The target is bitten with viciously sharp fangs. This may also make the target flinch."
+    name: "Gryz",
+    effect: "Cel jest ugryziony brutalnie ostrymi kłami. Może też sprawić że cel się wzdrygnie."
   },
   "growl": {
-    name: "Growl",
-    effect: "The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats."
+    name: "Warczenie",
+    effect: "Użytkownik warczy w ujmujący sposób, obniżając Atak przeciwnych Pokémonów."
   },
   "roar": {
-    name: "Roar",
-    effect: "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+    name: "Ryk",
+    effect: "Cel jest odstraszony i inny Pokémon jest wyciągnięty na pole walki. W dziczy kończy bitwę z pojedyńczym Pokémonem."
   },
   "sing": {
-    name: "Sing",
-    effect: "A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+    name: "Śpiew",
+    effect: "Użytkownik śpiewa kojącą kołysankę, która wprawia cel w głęboki sen."
   },
   "supersonic": {
-    name: "Supersonic",
-    effect: "The user generates odd sound waves from its body that confuse the target."
+    name: "Ultradźwięk",
+    effect: "Użytkownik emituje dziwne fale dźwiękowe ze swojego ciała, które dezorientują cel."
   },
   "sonicBoom": {
-    name: "Sonic Boom",
-    effect: "The target is hit with a destructive shock wave that always inflicts 20 HP damage."
+    name: "Bomba Dźwięku",
+    effect: "Cel jest uderzony destrukcyjną falą, która zawsze zadaje 20 HP przeciwnikowi."
   },
   "disable": {
-    name: "Disable",
-    effect: "For four turns, this move prevents the target from using the move it last used."
+    name: "Zablokowanie",
+    effect: "Uniemożliwia użycie przez przeciwnika ostatnio użytego ruchu przez cztery tury."
   },
   "acid": {
-    name: "Acid",
-    effect: "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats."
+    name: "Kwas",
+    effect: "Przeciwne Pokémony są zaatakowane kwasem. Może także obniżyć ich Sp. Obr."
   },
   "ember": {
-    name: "Ember",
-    effect: "The target is attacked with small flames. This may also leave the target with a burn."
+    name: "Żar",
+    effect: "Cel jest zaatakowany małym płomieniem. Może także oparzyć cel."
   },
   "flamethrower": {
     name: "Flamethrower",
