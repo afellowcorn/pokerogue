@@ -107,7 +107,7 @@ export const move: MoveTranslationEntries = {
   },
   "rollingKick": {
     name: "Kop Obrotowy",
-    effect: "Użytkownik atakuję szybkim, kręcącym kopnięciem. Może też sprawić że cel się wzdrygnie."
+    effect: "Użytkownik atakuje szybkim, kręcącym kopnięciem. Może też sprawić że cel się wzdrygnie."
   },
   "sandAttack": {
     name: "Atak Piaskiem",
@@ -210,35 +210,35 @@ export const move: MoveTranslationEntries = {
     effect: "Cel jest zaatakowany małym płomieniem. Może także oparzyć cel."
   },
   "flamethrower": {
-    name: "Flamethrower",
-    effect: "The target is scorched with an intense blast of fire. This may also leave the target with a burn."
+    name: "Miotacz Ognia",
+    effect: "Cel jest przypalony intensywnym podmuchem ognia. Może także oparzyć cel."
   },
   "mist": {
-    name: "Mist",
-    effect: "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns."
+    name: "Mgła",
+    effect: "Użytkownik osłania siebie i swoich sojuszników w białej mgle, która uniemożliwia obniżenie ich statystyk przez pięc tur."
   },
   "waterGun": {
-    name: "Water Gun",
-    effect: "The target is blasted with a forceful shot of water."
+    name: "Armatka Wodna",
+    effect: "Cel jest uderzony gwałtownym strzałem wody."
   },
   "hydroPump": {
-    name: "Hydro Pump",
-    effect: "The target is blasted by a huge volume of water launched under great pressure."
+    name: "Pompa Wodna",
+    effect: "Cel jest uderzony wielką ilością wody pod dużym ciśnieniem."
   },
   "surf": {
-    name: "Surf",
-    effect: "The user attacks everything around it by swamping its surroundings with a giant wave."
+    name: "Fala",
+    effect: "Użytkownik atakuje wszystko wokół siebie przez zanurzenie otoczenia pod wielką falą."
   },
   "iceBeam": {
-    name: "Ice Beam",
-    effect: "The target is struck with an icy-cold beam of energy. This may also leave the target frozen."
+    name: "Lodowy Promień",
+    effect: "Cel jest uderzony lodowym promieniem energii. Może także zamrozić cel."
   },
   "blizzard": {
-    name: "Blizzard",
-    effect: "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen."
+    name: "Zamieć",
+    effect: "Użytkownik przywołuje zamieć aby zaatakować cel. Może także zamrozić przeciwne Pokémony."
   },
   "psybeam": {
-    name: "Psybeam",
+    name: "Psychopromień",
     effect: "The target is attacked with a peculiar ray. This may also leave the target confused."
   },
   "bubbleBeam": {
